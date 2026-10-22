@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Personal context / notes
+Abdullah.pdf
+
+# Temporary Office / Excel lock files
+~$*
